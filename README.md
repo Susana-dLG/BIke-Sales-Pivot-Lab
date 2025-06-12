@@ -18,6 +18,7 @@ This project demonstrates my ability to use Microsoft Excel for data transformat
 | 🎨 **Chart Formatting**    | Enhancing visuals with legends, labels, and themes |
 | 💡 **Insight Extraction**  | Business-focused interpretation of customer and sales data |
 
+
 ---
 
 ## 📂 Part 1: Creating & Revising Pivot Tables and Charts
@@ -93,5 +94,31 @@ This project demonstrates my ability to use Microsoft Excel for data transformat
 - 🔍 Interactive pivot tables and slicers allowed for deep exploration of demographic profitability
 
 ---
+## 📂 Part 3: Categorizing Sales Volume with the SWITCH Function
+🧠 Used the SWITCH() function to categorize sales volume as High, Medium, or Low based on numeric thresholds.
+
+🧮 Formula used:
+
+=SWITCH(TRUE, C8>600, "High", C8>=300, "Medium", "Low")
+This function evaluates the Sales Volume in each row and assigns a label in the Switch column accordingly.
+
+📋 This replaced complex nested IF statements, offering:
+
+✅ Improved readability
+
+⚙️ Easier logic management
+
+📊 Clear, categorical data segmentation
+
+📸 Screenshot:
+- ![Switch function screenshot](https://github.com/user-attachments/assets/92a0c845-a5c5-4acf-9f4d-159e0beeed6b)
+
+✅ Summary of Additional Benefits
+The SWITCH function simplified conditional logic that would otherwise require long IF/ELSE formulas.
+
+It allowed for fast categorization across rows and enhanced the dataset for further filtering or chart use.
+
+This technique is highly applicable in dashboards or automated reporting tasks where categorized KPIs are essential.
+
 
 
