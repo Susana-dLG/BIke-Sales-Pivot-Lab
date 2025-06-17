@@ -120,5 +120,7 @@ It allowed for fast categorization across rows and enhanced the dataset for furt
 
 This technique is highly applicable in dashboards or automated reporting tasks where categorized KPIs are essential.
 
-
+---
+Created by Susana-dLG
+May 2025
 
