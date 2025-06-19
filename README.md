@@ -1,5 +1,6 @@
 # 📊 Excel Data Analysis & Visualization Project – Sales, Profit & Revenue Insights
 
+## Project Overview
 This project demonstrates my ability to use Microsoft Excel for data transformation, analysis, and visualization. It is split into two main parts:
 
 - **Part 1:** Creating and refining Pivot Tables and Pivot Charts
