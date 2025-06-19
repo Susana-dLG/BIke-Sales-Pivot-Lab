@@ -1,24 +1,30 @@
 # 📊 Excel Data Analysis & Visualization Project – Sales, Profit & Revenue Insights
 
 ## Project Overview
-This project demonstrates my ability to use Microsoft Excel for data transformation, analysis, and visualization. It is split into two main parts:
+This project involved analyzing bike sales data using Excel's **Pivot Tables**, enabling the summarization and categorization of sales by product category, region, gender, and customer age group. The objective was to draw actionable business insights from raw transactional data.It demonstrates my ability to use Microsoft Excel for data transformation, analysis, and visualization. 
+
+It is split into three main parts:
 
 - **Part 1:** Creating and refining Pivot Tables and Pivot Charts
 - **Part 2:** Building insightful data visualizations to explore profit, revenue, and customer group contributions
+- **Part 3:** SWITCH - Dynamic grouping
 
 ---
 
 ## 🧰 Excel Tools & Skills Demonstrated
 
-| Feature / Tool             | Description |
-|---------------------------|-------------|
-| 📊 **Pivot Tables**        | Summarizing data by customer segment, country, and product |
-| 📈 **Pivot Charts**        | Creating column, line, pie, and donut charts for comparison |
-| 📉 **Data Aggregation**    | Using sum and count functions to extract insights |
-| 🧠 **Slicer & Filtering**  | Segmenting data by year, age group, gender, and product category |
-| 🎨 **Chart Formatting**    | Enhancing visuals with legends, labels, and themes |
-| 💡 **Insight Extraction**  | Business-focused interpretation of customer and sales data |
 
+| Feature / Tool                      | Description                                                              |
+| ----------------------------------- | ------------------------------------------------------------------------ |
+| 📊 **Pivot Tables**                 | Summarized data by customer segment, country, and product category       |
+| 📈 **Pivot Charts**                 | Created column, line, pie, and donut charts to visualize key comparisons |
+| 📉 **Data Aggregation**             | Used `SUM`, `COUNT`, and other functions to derive performance metrics   |
+| 🧠 **Slicers & Filtering**          | Enabled dynamic segmentation by year, age group, gender, and category    |
+| 🎨 **Chart Formatting**             | Applied consistent styles, custom legends, axis labels, and color themes |
+| 🧩 **Visualization Best Practices** | Followed principles of clarity, readability, and emphasis in charts      |
+| 🗂️ **Insight Communication**       | Interpreted visual data to extract meaningful business insights          |
+| ⚙️ **Axis & Legend Customization**  | Improved chart readability with labeled axes and positioned legends      |
+| 🏷️ **Data Label Formatting**       | Added category names, values, and percentages for better clarity         |
 
 ---
 
@@ -124,4 +130,33 @@ This technique is highly applicable in dashboards or automated reporting tasks w
 ---
 Created by Susana-dLG
 May 2025
+Here’s a concise and professional **README-style project overview** for your two Excel-based data projects, highlighting tools, skills used, and mentioning the use of **SWITCH** where relevant.
+
+---
+
+## 📊 Project 1: Bike Sales Data Analysis with Pivot Tables
+
+### 📝 Overview:
+
+This project involved analyzing bike sales data using Excel's **Pivot Tables**, enabling the summarization and categorization of sales by product category, region, gender, and customer age group. The objective was to draw actionable business insights from raw transactional data.
+
+### 🧰 Tools & Technologies:
+
+* **Microsoft Excel (365)**
+* **Pivot Tables**
+* **SWITCH function** (used for categorizing age groups or other conditional logic)
+* **Basic Data Cleaning**
+
+### 🧠 Skills Demonstrated:
+
+* Data wrangling and organization
+* Categorization using formulas like `SWITCH` for dynamic grouping
+* Insight extraction through pivot aggregation (e.g., average order value, total revenue)
+* Interpreting customer segmentation by age and geography
+
+---
+
+Created by Susana-dLG
+May 2025
+
 
