@@ -21,10 +21,18 @@ It is split into three main parts:
 | 📉 **Data Aggregation**             | Used `SUM`, `COUNT`, and other functions to derive performance metrics   |
 | 🧠 **Slicers & Filtering**          | Enabled dynamic segmentation by year, age group, gender, and category    |
 | 🎨 **Chart Formatting**             | Applied consistent styles, custom legends, axis labels, and color themes |
-| 🧩 **Visualization Best Practices** | Followed principles of clarity, readability, and emphasis in charts      |
-| 🗂️ **Insight Communication**       | Interpreted visual data to extract meaningful business insights          |
-| ⚙️ **Axis & Legend Customization**  | Improved chart readability with labeled axes and positioned legends      |
-| 🏷️ **Data Label Formatting**       | Added category names, values, and percentages for better clarity         |
+| ⚙️ **Axis & Legend Customization**  | Enhanced chart clarity with well-positioned legends and labeled axes     |
+| 🏷️ **Data Label Formatting**       | Included category names, values, and percentages for better clarity      |
+| 🧩 **Visualization Best Practices** | Followed principles of clarity, emphasis, and accessibility in visuals   |
+| 🗂️ **Insight Communication**       | Extracted and presented actionable business insights from visual data    |
+
+### 🛠 Additional Tools & Techniques
+
+* 🔄 **SWITCH Function** – Used for dynamic categorization (e.g., grouping age ranges)
+* 🧹 **Basic Data Cleaning** – Prepared raw data for analysis by removing errors and formatting inconsistencies
+* 🔧 **Data Wrangling & Organization** – Structured datasets for optimal use in pivot tables and charts
+* 💡 **Insight Extraction** – Derived key metrics like total revenue, average order value, and demographic breakdowns using Excel logic and pivot aggregation
+
 
 ---
 
@@ -130,20 +138,9 @@ This technique is highly applicable in dashboards or automated reporting tasks w
 ---
 Created by Susana-dLG
 May 2025
-Here’s a concise and professional **README-style project overview** for your two Excel-based data projects, highlighting tools, skills used, and mentioning the use of **SWITCH** where relevant.
 
----
 
-## 📊 Project 1: Bike Sales Data Analysis with Pivot Tables
 
-### 📝 Overview:
-
-This project involved analyzing bike sales data using Excel's **Pivot Tables**, enabling the summarization and categorization of sales by product category, region, gender, and customer age group. The objective was to draw actionable business insights from raw transactional data.
-
-### 🧰 Tools & Technologies:
-
-* **Microsoft Excel (365)**
-* **Pivot Tables**
 * **SWITCH function** (used for categorizing age groups or other conditional logic)
 * **Basic Data Cleaning**
 
