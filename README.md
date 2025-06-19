@@ -141,19 +141,3 @@ May 2025
 
 
 
-* **SWITCH function** (used for categorizing age groups or other conditional logic)
-* **Basic Data Cleaning**
-
-### 🧠 Skills Demonstrated:
-
-* Data wrangling and organization
-* Categorization using formulas like `SWITCH` for dynamic grouping
-* Insight extraction through pivot aggregation (e.g., average order value, total revenue)
-* Interpreting customer segmentation by age and geography
-
----
-
-Created by Susana-dLG
-May 2025
-
-
